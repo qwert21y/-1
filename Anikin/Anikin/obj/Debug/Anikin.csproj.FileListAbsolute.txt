@@ -1,0 +1,10 @@
+C:\Users\Михаил\source\repos\Anikin\Anikin\bin\Debug\Anikin.exe.config
+C:\Users\Михаил\source\repos\Anikin\Anikin\bin\Debug\Anikin.exe
+C:\Users\Михаил\source\repos\Anikin\Anikin\bin\Debug\Anikin.pdb
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.Form1.resources
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.exe
+C:\Users\Михаил\source\repos\Anikin\Anikin\obj\Debug\Anikin.pdb
