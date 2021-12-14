@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha 14 Anikin.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha_14_Anikin.Form1.resources
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha_14_Anikin.Properties.Resources.resources
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha 14 Anikin.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha 14 Anikin.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\bin\Debug\Zadacha 14 Anikin.exe.config
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\bin\Debug\Zadacha 14 Anikin.exe
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\bin\Debug\Zadacha 14 Anikin.pdb
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha 14 Anikin.exe
+C:\Users\student\source\repos\Zadacha 14 Anikin\Zadacha 14 Anikin\obj\Debug\Zadacha 14 Anikin.pdb
