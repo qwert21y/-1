@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.Form1.resources
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.Form2.resources
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.Properties.Resources.resources
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ANMa1\ANMa1\bin\Debug\ANMa1.exe.config
+C:\Users\student\source\repos\ANMa1\ANMa1\bin\Debug\ANMa1.exe
+C:\Users\student\source\repos\ANMa1\ANMa1\bin\Debug\ANMa1.pdb
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.exe
+C:\Users\student\source\repos\ANMa1\ANMa1\obj\Debug\ANMa1.pdb
