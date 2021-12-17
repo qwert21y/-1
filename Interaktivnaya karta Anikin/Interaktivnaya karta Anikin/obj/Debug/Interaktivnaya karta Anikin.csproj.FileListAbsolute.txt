@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\bin\Debug\Interaktivnaya karta Anikin.exe.config
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\bin\Debug\Interaktivnaya karta Anikin.exe
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\bin\Debug\Interaktivnaya karta Anikin.pdb
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya karta Anikin.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya_karta_Anikin.Form1.resources
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya_karta_Anikin.Properties.Resources.resources
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya karta Anikin.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya karta Anikin.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya karta Anikin.exe
+C:\Users\student\source\repos\Interaktivnaya karta Anikin\Interaktivnaya karta Anikin\obj\Debug\Interaktivnaya karta Anikin.pdb
