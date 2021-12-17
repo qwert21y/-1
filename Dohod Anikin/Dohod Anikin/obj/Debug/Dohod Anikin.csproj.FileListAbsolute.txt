@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\bin\Debug\Dohod Anikin.exe.config
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\bin\Debug\Dohod Anikin.exe
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\bin\Debug\Dohod Anikin.pdb
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod Anikin.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod_Anikin.Form1.resources
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod_Anikin.Properties.Resources.resources
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod Anikin.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod Anikin.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod Anikin.exe
+C:\Users\student\source\repos\Dohod Anikin\Dohod Anikin\obj\Debug\Dohod Anikin.pdb
